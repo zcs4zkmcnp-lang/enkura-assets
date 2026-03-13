@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 60" width="320" height="60" role="img" aria-label="enkura">
+  <title>enkura</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="320" height="60" fill="#FFFFFF"/>
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="central"
+    text-anchor="middle"
+    font-family="'Outfit', 'Gill Sans', 'Gill Sans MT', Calibri, Arial, sans-serif"
+    font-weight="600"
+    font-size="36"
+    letter-spacing="14"
+    fill="#0C2340"
+    textLength="300"
+    lengthAdjust="spacing"
+  >enkura</text>
+</svg>
